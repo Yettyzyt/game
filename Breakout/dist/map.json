@@ -1,0 +1,28 @@
+{
+  "dependency": {
+    "breakout.html": []
+  },
+  "include": {
+    "breakout.html": {
+      "css": [
+        {
+          "name": "gb.css",
+          "module": "gb"
+        },
+        {
+          "name": "breakout.css",
+          "module": "Breakout",
+          "images": []
+        }
+      ],
+      "js": [
+        {
+          "name": "breakout.js",
+          "module": "Breakout",
+          "images": []
+        }
+      ],
+      "images": []
+    }
+  }
+}

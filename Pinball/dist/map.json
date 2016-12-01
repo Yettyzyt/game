@@ -1,0 +1,28 @@
+{
+  "dependency": {
+    "pinball.html": []
+  },
+  "include": {
+    "pinball.html": {
+      "css": [
+        {
+          "name": "gb.css",
+          "module": "gb"
+        },
+        {
+          "name": "pinball.css",
+          "module": "Pinball",
+          "images": []
+        }
+      ],
+      "js": [
+        {
+          "name": "pinball.js",
+          "module": "Pinball",
+          "images": []
+        }
+      ],
+      "images": []
+    }
+  }
+}

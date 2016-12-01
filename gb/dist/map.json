@@ -1,0 +1,24 @@
+{
+  "dependency": {
+    "gb.html": []
+  },
+  "include": {
+    "gb.html": {
+      "css": [
+        {
+          "name": "gb.css",
+          "module": "gb",
+          "images": []
+        }
+      ],
+      "js": [
+        {
+          "name": "gb.js",
+          "module": "gb",
+          "images": []
+        }
+      ],
+      "images": []
+    }
+  }
+}

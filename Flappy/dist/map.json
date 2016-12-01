@@ -1,0 +1,42 @@
+{
+  "dependency": {
+    "flappy.html": []
+  },
+  "include": {
+    "flappy.html": {
+      "css": [
+        {
+          "name": "gb.css",
+          "module": "gb"
+        },
+        {
+          "name": "flappy.css",
+          "module": "Flappy",
+          "images": []
+        },
+        {
+          "name": "gb.css",
+          "module": "gb"
+        },
+        {
+          "name": "flappy.css",
+          "module": "Flappy",
+          "images": []
+        }
+      ],
+      "js": [
+        {
+          "name": "flappy.js",
+          "module": "Flappy",
+          "images": []
+        },
+        {
+          "name": "flappy.js",
+          "module": "Flappy",
+          "images": []
+        }
+      ],
+      "images": []
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "dependency": {
+    "tetris.html": []
+  },
+  "include": {
+    "tetris.html": {
+      "css": [
+        {
+          "name": "gb.css",
+          "module": "gb"
+        },
+        {
+          "name": "tetris.css",
+          "module": "Tetris",
+          "images": []
+        }
+      ],
+      "js": [
+        {
+          "name": "tetris.js",
+          "module": "Tetris",
+          "images": []
+        }
+      ],
+      "images": []
+    }
+  }
+}
