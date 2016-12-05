@@ -63,6 +63,7 @@ var leftPressed = false;
 // 键盘事件监听
 document.addEventListener("keydown", keyDownHandler, false);
 document.addEventListener("keyup", keyUpHandler, false);
+// 鼠标事件监听
 document.addEventListener("mousemove", mouseMoveHandler, false);
 // 键盘事件处理
 function keyDownHandler(e) {
