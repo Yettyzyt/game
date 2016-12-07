@@ -22,7 +22,20 @@
           "images": []
         }
       ],
-      "images": []
+      "images": [
+        {
+          "res": "css/gb.css",
+          "module": "gb"
+        },
+        {
+          "res": "css/tetris.css",
+          "module": "Tetris"
+        },
+        {
+          "res": "js/tetris.js",
+          "module": "Tetris"
+        }
+      ]
     }
   }
 }

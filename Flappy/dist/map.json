@@ -13,6 +13,78 @@
           "name": "flappy.css",
           "module": "Flappy",
           "images": []
+        },
+        {
+          "name": "gb.css",
+          "module": "gb"
+        },
+        {
+          "name": "flappy.css",
+          "module": "Flappy",
+          "images": []
+        },
+        {
+          "name": "gb.css",
+          "module": "gb"
+        },
+        {
+          "name": "flappy.css",
+          "module": "Flappy",
+          "images": []
+        },
+        {
+          "name": "gb.css",
+          "module": "gb"
+        },
+        {
+          "name": "flappy.css",
+          "module": "Flappy",
+          "images": []
+        },
+        {
+          "name": "gb.css",
+          "module": "gb"
+        },
+        {
+          "name": "flappy.css",
+          "module": "Flappy",
+          "images": []
+        },
+        {
+          "name": "gb.css",
+          "module": "gb"
+        },
+        {
+          "name": "flappy.css",
+          "module": "Flappy",
+          "images": []
+        },
+        {
+          "name": "gb.css",
+          "module": "gb"
+        },
+        {
+          "name": "flappy.css",
+          "module": "Flappy",
+          "images": []
+        },
+        {
+          "name": "gb.css",
+          "module": "gb"
+        },
+        {
+          "name": "flappy.css",
+          "module": "Flappy",
+          "images": []
+        },
+        {
+          "name": "gb.css",
+          "module": "gb"
+        },
+        {
+          "name": "flappy.css",
+          "module": "Flappy",
+          "images": []
         }
       ],
       "js": [
@@ -20,9 +92,62 @@
           "name": "flappy.js",
           "module": "Flappy",
           "images": []
+        },
+        {
+          "name": "flappy.js",
+          "module": "Flappy",
+          "images": []
+        },
+        {
+          "name": "flappy.js",
+          "module": "Flappy",
+          "images": []
+        },
+        {
+          "name": "flappy.js",
+          "module": "Flappy",
+          "images": []
+        },
+        {
+          "name": "flappy.js",
+          "module": "Flappy",
+          "images": []
+        },
+        {
+          "name": "flappy.js",
+          "module": "Flappy",
+          "images": []
+        },
+        {
+          "name": "flappy.js",
+          "module": "Flappy",
+          "images": []
+        },
+        {
+          "name": "flappy.js",
+          "module": "Flappy",
+          "images": []
+        },
+        {
+          "name": "flappy.js",
+          "module": "Flappy",
+          "images": []
         }
       ],
-      "images": []
+      "images": [
+        {
+          "res": "css/gb.css",
+          "module": "gb"
+        },
+        {
+          "res": "css/flappy.css",
+          "module": "Flappy"
+        },
+        {
+          "res": "js/flappy.js",
+          "module": "Flappy"
+        }
+      ]
     }
   }
 }

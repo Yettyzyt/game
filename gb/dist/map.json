@@ -18,7 +18,16 @@
           "images": []
         }
       ],
-      "images": []
+      "images": [
+        {
+          "res": "css/gb.css",
+          "module": "gb"
+        },
+        {
+          "res": "js/gb.js",
+          "module": "gb"
+        }
+      ]
     }
   }
 }

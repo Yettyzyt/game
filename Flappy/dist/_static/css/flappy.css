@@ -3,8 +3,37 @@
  * @author: Yetty
  * @time: 2016-12-1
 */
-canvas {
+.flappy {
+  position: relative;
+  width: 500px;
+  height: 300px;
+  margin: 50px auto;
+}
+.flappy canvas {
   background: #eee;
   display: block;
-  margin: 50px auto;
+}
+.flappy .pop {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  color: #fff;
+  font-size: 20px;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.5);
+}
+.flappy .pop_text {
+  margin-top: 100px;
+}
+.flappy .pop_btn {
+  display: block;
+  width: 100px;
+  height: 30px;
+  color: #fff;
+  font-size: 16px;
+  line-height: 30px;
+  margin: 10px auto 0;
+  background: green;
 }

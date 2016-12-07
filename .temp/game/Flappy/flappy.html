@@ -16,12 +16,18 @@
   <!-- E 引用前端页面片 -->
 
   <!-- global:css -->
-  <link rel="stylesheet" type="text/css" href="/game/gb/css/gb.css" combo-use>
+  <link rel="stylesheet" type="text/css" href="/game/gb/css/gb.css">
   <!-- endglobal -->
 
-  <link rel="stylesheet" type="text/css" href="/game/Flappy/css/flappy.css" combo-use>
+  <link rel="stylesheet" type="text/css" href="/game/Flappy/css/flappy.css">
 </head>
-<canvas id="myCanvas" width="500" height="300"></canvas>
+<div class="flappy">
+  <canvas id="myCanvas" width="500" height="300"></canvas>
+  <div class="pop J_pop" style="display: none;">
+    <p class="pop_text J_popText"></p>
+    <a href="javascript:;" class="pop_btn J_popBtn">再玩一次</a>
+  </div>
+</div>
 
 <!-- S 引用前端页面片 -->
 <!--#include virtual="/sinclude/cssi/fd/pc/game/Flappy/flappy_js.shtml" -->
@@ -29,7 +35,7 @@
 <!-- global:js -->
 <!-- endglobal -->
 
-<script src="/game/Flappy/js/flappy.js" combo-use></script>
+<script src="/game/Flappy/js/flappy.js"></script>
 
 </body>
 

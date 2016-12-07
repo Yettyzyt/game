@@ -22,7 +22,20 @@
           "images": []
         }
       ],
-      "images": []
+      "images": [
+        {
+          "res": "css/gb.css",
+          "module": "gb"
+        },
+        {
+          "res": "css/breakout.css",
+          "module": "Breakout"
+        },
+        {
+          "res": "js/breakout.js",
+          "module": "Breakout"
+        }
+      ]
     }
   }
 }

@@ -22,7 +22,20 @@
           "images": []
         }
       ],
-      "images": []
+      "images": [
+        {
+          "res": "css/gb.css",
+          "module": "gb"
+        },
+        {
+          "res": "css/pinball.css",
+          "module": "Pinball"
+        },
+        {
+          "res": "js/pinball.js",
+          "module": "Pinball"
+        }
+      ]
     }
   }
 }
